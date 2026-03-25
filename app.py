@@ -5,7 +5,7 @@ import tempfile
 
 st.set_page_config(page_title="문서 변환기", page_icon="📝")
 
-st.title("📝 문서 ➡️ Markdown 변환기")
+st.title("📝 문서 ➡️ Markdown 변환기 - 쌍칼버전")
 st.write("파워포인트(PPTX) 또는 엑셀(XLSX, XLS) 파일을 업로드하면 마크다운(.md) 파일로 변환해 줍니다.")
 
 # 파일 업로더
